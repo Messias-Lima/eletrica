@@ -2,6 +2,16 @@
 
 int main(void)
 {
-	printf("teste");
+	int i;
+	
+	printf("teste\n");
+	
+	scanf("%i",&i);
+	
+	printf("%i\n",3*i);
+	
 
+
+ 	system("pause");
+ 		return 0;
 }
